@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/* Напишите программу которая будет преобразовывать десятичное число в двоичное */
+
+int GetNumber()
+{
+    
+    return Number;
+}
